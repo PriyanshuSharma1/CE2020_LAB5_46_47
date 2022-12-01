@@ -1,6 +1,6 @@
 #include<iostream>
 #include<random>
-#include<algorithm>
+#include<algorithm> 
 using namespace std;
 #define n 100
 void quicksort(int high, int low)
