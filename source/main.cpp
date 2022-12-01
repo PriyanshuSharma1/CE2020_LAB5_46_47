@@ -1,9 +1,15 @@
+/*
+Authors names: Priyanshu Sharma, Soniya Sharma
+Date created : November 21, 2022
+Sorting randomly generated array using merge sort and quick sort
+*/
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
 #include <ctime>
 #include <chrono>
 #include "sorting.cpp"
+using namespace std; //declaring std on global namespace
 int main()
 {
     double t1, t2;

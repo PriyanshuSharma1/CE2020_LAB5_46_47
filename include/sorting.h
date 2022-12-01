@@ -1,3 +1,8 @@
+/*
+Authors names: Priyanshu Sharma, Soniya Sharma
+Date created : November 21, 2022
+Sorting randomly generated array using merge sort and quick sort
+*/
 #ifndef sorting_h
 #define sorting_h
 
